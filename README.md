@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a **tech enthusiast** deeply passionate about merging the realms of technology, learning, and efficiency. My focus is on developing innovative instructional technology solutions and delving into the world of open-source alternatives for project management. My programming journey began with `Java`, `C#`, `HTML`, and `CSS`, primarily to address various system implementation needs.
 
-I'm currently on an exciting learning path in secure software development, thanks to the Coding for Veterans program and the University of Ottawa. This journey is enhancing my skill set with `Python`, `JavaScript`, `PHP`, `Docker`, and `Kubernetes`. I am committed to using these skills to craft impactful, user-centric technological tools.
+I'm currently on an exciting learning path in secure software development, thanks to the Coding for Veterans program and the University of Ottawa. This journey is enhancing my skill set with `Python`,`C++`, `JavaScript`, `PHP`, `Docker`, and `Kubernetes`. I am committed to using these skills to craft impactful, user-centric technological tools.
 
 Stay tuned for updates on my projects and feel free to reach out for collaborations or discussions!
 
