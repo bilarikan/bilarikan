@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there! 👋
 
-I'm a **tech enthusiast** passionate about merging the realms of technology alh learning. Currently working on instructional technology solutions and project management. My programming journey began with `Java`, `C#`, `HTML`, and `CSS`, primarily to address various system implementation needs.
+I'm a **tech enthusiast** passionate about merging the realms of technology and learning. Currently working on instructional technology solutions and project management. My programming journey began with `Java`, `C#`, `HTML`, and `CSS`, primarily to address various system implementation needs.
 
 I'm recently completed a program in secure software development. This journey has enhanced my skill set with `Python`,`C++`, `JavaScript`, `PHP`, `Docker`, and `Kubernetes`. I am committed to using these skills to craft impactful learning technology solutions.
 
